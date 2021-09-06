@@ -1,0 +1,17 @@
+.todo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.todo_input{
+  padding: 10px 0px;
+}
+.todo_input input{
+  font-size: 20px;
+  padding: 5px 5px;
+}
+.add{
+  font-size: 20px;
+  padding: 5px 5px;
+}
